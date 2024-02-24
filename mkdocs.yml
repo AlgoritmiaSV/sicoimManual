@@ -1,0 +1,20 @@
+site_name: SICOIM
+site_url: https://docs.sicoim.com
+site_description: Manual de usuario de SICOIM
+site_author: Edwin Fajardo
+copyright: Copyright 2024 Algoritmia SV
+nav:
+  - Inicio: index.md
+  - Usuario: usuario.md
+  - Herramientas:
+    - 'Historial de actividades': herramientas/historial-actividades.md
+    - 'Papelera de reciclaje': herramientas/papelera.md
+  - Configuraciones:
+    - 'Datos de la empresa': configuraciones/entidad.md
+    - Preferencias: configuraciones/preferencias.md
+    - Roles: configuraciones/roles.md
+    - Usuarios: configuraciones/usuarios.md
+theme:
+  name: mkdocs
+  nav_style: dark
+  locale: es
