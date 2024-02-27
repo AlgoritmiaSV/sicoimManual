@@ -2,7 +2,7 @@ site_name: SICOIM
 site_url: https://docs.sicoim.com
 site_description: Manual de usuario de SICOIM
 site_author: Edwin Fajardo
-copyright: Copyright 2024 Algoritmia SV
+copyright: Copyright &copy;2024 Algoritmia SV
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
