@@ -1,0 +1,10 @@
+.navbar-nav .nav-item:not(:first-child)
+{
+	display: none;
+}
+
+blockquote
+{
+	color: #444444;
+	font-style: italic;
+}

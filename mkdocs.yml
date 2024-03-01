@@ -1,8 +1,9 @@
 site_name: SICOIM
-site_url: https://docs.sicoim.com
+site_url: https://manuales.algoritmia.sv/sicoim/
 site_description: Manual de usuario de SICOIM
 site_author: Edwin Fajardo
 copyright: Copyright &copy;2024 Algoritmia SV
+site_dir: /store/bphp/manuals/sicoim
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
@@ -18,3 +19,5 @@ theme:
   name: mkdocs
   nav_style: dark
   locale: es
+extra_css:
+  - css/algoritmiasv.css
