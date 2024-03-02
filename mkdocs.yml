@@ -21,3 +21,5 @@ theme:
   locale: es
 extra_css:
   - css/algoritmiasv.css
+markdown_extensions:
+  - attr_list
